@@ -1,0 +1,11 @@
+c:\users\jenny\documents\visual studio 2012\Projects\Assignment_ADBMS\Assignment_ADBMS\bin\Debug\Assignment_ADBMS.exe.config
+c:\users\jenny\documents\visual studio 2012\Projects\Assignment_ADBMS\Assignment_ADBMS\bin\Debug\Assignment_ADBMS.exe
+c:\users\jenny\documents\visual studio 2012\Projects\Assignment_ADBMS\Assignment_ADBMS\bin\Debug\Assignment_ADBMS.pdb
+c:\users\jenny\documents\visual studio 2012\Projects\Assignment_ADBMS\Assignment_ADBMS\obj\Debug\Assignment_ADBMS.csprojResolveAssemblyReference.cache
+c:\users\jenny\documents\visual studio 2012\Projects\Assignment_ADBMS\Assignment_ADBMS\obj\Debug\Assignment_ADBMS.frmMain.resources
+c:\users\jenny\documents\visual studio 2012\Projects\Assignment_ADBMS\Assignment_ADBMS\obj\Debug\Assignment_ADBMS.Properties.Resources.resources
+c:\users\jenny\documents\visual studio 2012\Projects\Assignment_ADBMS\Assignment_ADBMS\obj\Debug\Assignment_ADBMS.csproj.GenerateResource.Cache
+c:\users\jenny\documents\visual studio 2012\Projects\Assignment_ADBMS\Assignment_ADBMS\obj\Debug\Assignment_ADBMS.exe
+c:\users\jenny\documents\visual studio 2012\Projects\Assignment_ADBMS\Assignment_ADBMS\obj\Debug\Assignment_ADBMS.pdb
+c:\users\jenny\documents\visual studio 2012\Projects\Assignment_ADBMS\Assignment_ADBMS\bin\Debug\MySql.Data.dll
+c:\users\jenny\documents\visual studio 2012\Projects\Assignment_ADBMS\Assignment_ADBMS\obj\Debug\Assignment_ADBMS.frm_Criteria.resources
